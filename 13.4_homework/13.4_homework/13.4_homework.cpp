@@ -2,6 +2,6 @@
 #include "Helpers.h"
 int main()
 {
-	int result = func (5,4);
+	int result = func (5,5);
 	std::cout << "Cube = " << result << std::endl;
 }
