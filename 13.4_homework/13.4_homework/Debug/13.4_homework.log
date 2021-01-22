@@ -1,2 +1,3 @@
 ﻿  13.4_homework.cpp
+c:\users\kripa\source\repos\13.4_homework\13.4_homework\helpers.h(4): warning C4244: return: преобразование "double" в "int", возможна потеря данных
   13.4_homework.vcxproj -> C:\Users\kripa\source\repos\13.4_homework\Debug\13.4_homework.exe

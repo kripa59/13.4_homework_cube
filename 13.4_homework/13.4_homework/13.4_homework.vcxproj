@@ -154,6 +154,7 @@
     <ClCompile Include="13.4_homework.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="13.4_homework.h" />
     <ClInclude Include="Helpers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
